@@ -6,7 +6,9 @@ ACCESS was developed by Alexander Hofmann, Philip Hofmann, Mervin Cheok and Luka
 
 More information is available on our [website](http://access.ch.tiberius.sui-inter.net/de/ "website"), in our [report](https://raw.githubusercontent.com/Phhofm/papers/master/ACCESS_Report.pdf "report"), or in our [gitbook](https://mp-access.gitbook.io/access/development/getting-started "gitbook").
 
-We made our tool open source. So anyone can feel free to use this tool for their own courses or to fork it and extend the tool with further functionality or simpler deployment options
+We made our tool open source. So anyone can feel free to use this tool for their own courses or to fork it and extend the tool with further functionality or simpler deployment options.
+
+This repository only contains this README, you find the code of the project in the following repositories:
 
 The [Infrastructure](https://github.com/Phhofm/ACCESS_Infrastructure "Infrastructure") repository contains the configuration and docker-services needed for our application like postgres, mongodb, keycloak
 
