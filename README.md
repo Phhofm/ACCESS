@@ -4,7 +4,12 @@
 
 ACCESS was developed by Alexander Hofmann, Philip Hofmann, Mervin Cheok and Luka Lapanashvili, during their master studies in computer science for the Departement of Informatics at university of zuerich UZH. These developers subsequently got hired by the university to deploy, maintain and extend this system for a semester, resulting in around 450 students solving, handing in and instantly recieving grades for their weekly python programming exercises.
 
-More information is available on our [website](http://access.ch.tiberius.sui-inter.net/de/ "website"), in our [report](https://raw.githubusercontent.com/Phhofm/papers/master/ACCESS_Report.pdf "report"), or in our [gitbook](https://mp-access.gitbook.io/access/development/getting-started "gitbook").
+More information is available on our [website](https://access-tool.ch/), in our [report](https://raw.githubusercontent.com/Phhofm/papers/master/ACCESS_Report.pdf "report"), or in our [gitbook](https://mp-access.gitbook.io/access/development/getting-started "gitbook").
+
+I had also created a youtube video about out project:
+[![Watch the video](https://www.youtube.com/embed/39kSV4cc6fI?si=gIzMg7nE4EABZx5S)](https://www.youtube.com/embed/39kSV4cc6fI?si=gIzMg7nE4EABZx5S)
+
+In case of the above website not working, have a look on the internet archive: [home](http://web.archive.org/web/20231129155513/https://access-tool.ch/) and [team](http://web.archive.org/web/20231129155909/https://access-tool.ch/team) pages
 
 We made our tool open source. So anyone can feel free to use this tool for their own courses or to fork it and extend the tool with further functionality or simpler deployment options.
 
